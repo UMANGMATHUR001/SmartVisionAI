@@ -20,9 +20,7 @@ import io
 FRIENDLY_LABELS = {
     "loupe": "Magnifying Glass",
     "lens_cap": "Camera Lens Cap",
-    "remote_control": "TV Remote",
-    "mouse": "Computer Mouse",
-    "cellular_telephone": "Mobile Phone"
+    
 }
 
 
